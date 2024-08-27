@@ -15,7 +15,7 @@
 \*-----------------------------------*/
 
 .light-theme {
-  
+
 
   /**
    * light theme colors 
@@ -33,6 +33,8 @@
 
   --accent: hsl(229, 76%, 66%);
 
+
+  
 }
 
 .dark-theme {
